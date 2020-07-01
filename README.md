@@ -1,2 +1,2 @@
-# http://FarsArtz.github/FarsArtz/
+# http://FarsArtz.github.io/FarsArtz/
 Art
